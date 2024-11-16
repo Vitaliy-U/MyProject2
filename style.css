@@ -6,5 +6,10 @@ body {
 
 .text {
     color: red; /* цвет текста */
-    
+
+}
+
+
+.myImage {
+    width: 450px;
 }
